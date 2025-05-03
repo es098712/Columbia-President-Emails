@@ -1,0 +1,6 @@
+Topic,Top Words,T-statistic,P-value,Significant (p < 0.05)
+Topic 1,campus students safety york city access time continue academic work,-1.2627882350473743,0.21773954979380533,False
+Topic 2,students faculty support staff moment great world important values life,-0.8133703510945037,0.4231827106937951,False
+Topic 3,college students student antisemitism jewish campus life academic city forward,-1.6743252484727666,0.10949142485903185,False
+Topic 4,students faculty campus support work academic mission staff rules leadership,0.9161060280979283,0.36593382414387043,False
+Topic 5,campus mission students academic commitment open freedom work city values,2.744307741159999,0.00874868124915708,True
