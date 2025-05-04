@@ -33,5 +33,8 @@ This project analyzes the content, tone, and thematic structure of official prot
 - Matplotlib was used to plot topic distributions and readability metrics.
 - Side-by-side bar graphs and statistical comparisons were used to highlight rhetorical trends and complexity in presidential communications.
 
+
 ## License
-This project is for academic and journalistic use. Please cite the repository if using the data or analysis for publication.
+
+📄 This project is licensed under [CC BY-NC-ND 4.0](LICENSE).  
+Feel free to cite, analyze, or use the material for academic and journalistic purposes. Modifications or commercial use are not permitted.
