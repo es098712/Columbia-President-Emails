@@ -1,3 +1,3 @@
 # Columbia-President-Emails
 
-### This project analyzes the content, tone, and thematic structure of official protest related emails sent by Columbia University Presidents Minouche Shafik and Katrina Armstrong. Using natural language processing techniques—including LDA topic modeling and Flesch-Kincaid readability scoring—the repository explores how presidential communication reflects administrative priorities, rhetorical choices, and moments of institutional crisis.
+This project analyzes the content, tone, and thematic structure of official protest related emails sent by Columbia University Presidents Minouche Shafik and Katrina Armstrong. Using natural language processing techniques—including LDA topic modeling and Flesch-Kincaid readability scoring—the repository explores how presidential communication reflects administrative priorities, rhetorical choices, and moments of institutional crisis.
