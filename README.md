@@ -29,11 +29,6 @@ This project analyzes the content, tone, and thematic structure of official prot
   - Average syllables per word
 - These metrics were averaged across all emails for each president.
 
-### 5. Visualization
-- Matplotlib was used to plot topic distributions and readability metrics.
-- Side-by-side bar graphs and statistical comparisons were used to highlight rhetorical trends and complexity in presidential communications.
-
-
 ## License
 
 📄 This project is licensed under [CC BY-NC-ND 4.0](LICENSE).  
