@@ -1,6 +1,6 @@
-Topic,Top Words,T-statistic,P-value,Significant (p < 0.05)
-Topic 1,campus student faculty support group member rule across safety work,0.20042188420977644,0.8423692236066003,False
-Topic 2,year mission time academic institution student must value commitment new,2.7200511645091883,0.00946366416044129,True
-Topic 3,student right encampment academic many campus also everyone member time,-0.8486404457296454,0.4042483330758684,False
-Topic 4,incident student day campus member harassment respect right speech form,-1.9364174146775177,0.07068398797349969,False
-Topic 5,student many new world protest academic also support faculty international,-0.9964427844721858,0.328385084719347,False
+Topic,Category,T-statistic,P-value,p < 0.05
+Topic 1,Community Safety and Conduct,0.20042188420977644,0.8423692236066003,False
+Topic 2,Institutional Mission and Values,2.7200511645091883,0.00946366416044129,True
+Topic 3,Student Activism and Encampments,-0.8486404457296454,0.4042483330758684,False
+Topic 4,"Harassment, Speech, and Individual Incidents",-1.9364174146775177,0.07068398797349969,False
+Topic 5,"Protest, International Issues, and Global Context",-0.9964427844721858,0.328385084719347,False
