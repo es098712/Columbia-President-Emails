@@ -53,11 +53,3 @@ To assess the accessibility of each president’s writing style:
 
 📄 This project is licensed under [CC BY-NC-ND 4.0](LICENSE).  
 Feel free to cite, analyze, or use the material for academic and journalistic purposes. Modifications or commercial use are not permitted.
-
----
-
-## Citation
-
-If you use this analysis in your own work, please cite it as:
-
-> "Columbia President Emails: Content and Readability Analysis." 2025. GitHub Repository.  
