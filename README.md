@@ -9,6 +9,7 @@ This project analyzes the structure and thematic content of protest-related emai
 ### 1. Data Collection
 - Emails were sourced from publicly available university communications and stored in separate Excel files: one for Shafik, and one for Armstrong.
 - Each row corresponds to an individual email.
+- I manually deleted all hyperlinks, greetings ("Dear Columbia Community"), and sign-offs (Sincerely, President...) for each email
 
 ---
 
