@@ -1,6 +1,6 @@
 Topic,Category,T-statistic,P-value,p < 0.05
-Topic 1,Community Safety and Conduct,0.20042188420977644,0.8423692236066003,False
-Topic 2,Institutional Mission and Values,2.7200511645091883,0.00946366416044129,True
-Topic 3,Student Activism and Encampments,-0.8486404457296454,0.4042483330758684,False
-Topic 4,"Harassment, Speech, and Individual Incidents",-1.9364174146775177,0.07068398797349969,False
-Topic 5,"Protest, International Issues, and Global Context",-0.9964427844721858,0.328385084719347,False
+Topic 1,Community Safety and Conduct,0.200421884,0.842369224,FALSE
+Topic 2,Institutional Mission and Values,2.720051165,0.009463664,TRUE
+Topic 3,Student Activism and Encampments,-0.848640446,0.404248333,FALSE
+Topic 4,"Harassment, Speech, and Individual Incidents",-1.936417415,0.070683988,FALSE
+Topic 5,"Protest, International Issues, and Global Context",-0.996442784,0.328385085,FALSE
