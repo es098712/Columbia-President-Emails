@@ -1,6 +1,6 @@
 Topic,Top Words,T-statistic,P-value,Significant (p < 0.05)
-Topic 1,students campus many academic also faculty encampment new year work,-3.0507828192389534,0.006158538406104152,True
-Topic 2,students campus many support faculty staff time members academic across,-0.40705468939101636,0.6865417626376991,False
-Topic 3,campus students safety mission support challenges every public values principles,1.4849552511178477,0.14490727420552724,False
-Topic 4,campus rules students safety mission faculty new public values academic,-0.6374108844427,0.5287512723412575,False
-Topic 5,work faculty academic commitment mission new committee students leadership across,3.872424528118923,0.0006195154408647156,True
+Topic 1,campus student faculty support group member rule across safety work,0.20042188420977644,0.8423692236066003,False
+Topic 2,year mission time academic institution student must value commitment new,2.7200511645091883,0.00946366416044129,True
+Topic 3,student right encampment academic many campus also everyone member time,-0.8486404457296454,0.4042483330758684,False
+Topic 4,incident student day campus member harassment respect right speech form,-1.9364174146775177,0.07068398797349969,False
+Topic 5,student many new world protest academic also support faculty international,-0.9964427844721858,0.328385084719347,False

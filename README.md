@@ -6,7 +6,7 @@ This project analyzes the content, tone, and thematic structure of official prot
 ## Methodology
 
 ### 1. Data Collection
-- Protest-related emails were collected from official university communications and loaded from Excel files for each president.
+- Protest-related emails were collected from official university communications and loaded from Excel files for each president. 
 
 ### 2. Preprocessing
 - All emails were converted to lowercase.
